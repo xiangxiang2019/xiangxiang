@@ -1,0 +1,6 @@
+echo "# xiangxiang" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/xiangxiang2019/xiangxiang.git
+git push -u origin master
